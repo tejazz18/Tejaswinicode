@@ -12,7 +12,7 @@ import java.util.Comparator;
 
 @SpringBootApplication
 @RestController
-public class ApiApplication {
+public class tejaswiniApi1 {
 
     @GetMapping("/api/endpoint")
     public ResponseEntity<String> getEndpoint() {
